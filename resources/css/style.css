@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+head {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.link {
+  /* unvisited link */
+a:link {
+    color: aquamarine;
+}
+
+/* visited link */
+a:visited {
+    color: aquamarine;
+}
+
+h2 {
+  color: aquamarine;
+  font-size: 16px;
+}
+h3 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h4 {
+  font-size: 21px;
+  color: grey;
+}
+p {
+  text-align: right;
+  color: grey;
+  font-size: 21px;
+}
