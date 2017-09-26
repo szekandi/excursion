@@ -10,14 +10,18 @@ head {
 }
 
 .link {
-  /* unvisited link */
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/* unvisited link */
 a:link {
-    color: aquamarine;
+    color: red;
 }
 
 /* visited link */
 a:visited {
-    color: aquamarine;
+    color: green;
 }
 
 h2 {
